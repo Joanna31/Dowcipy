@@ -84,5 +84,14 @@
 		Dlaczego dzieci Durczoka dostaj¹ najwiêcej prezentów pod choinkê?
 		Bo ich tata to prezenter.	
 		</content>
+    </joke>
+	<joke>
+        <createdAt>05/12/2014</createdAt>
+        <category>O informatykach</category>
+        <content>
+		Nowy stuprocentowy sposób na to, ¿eby nigdy nie zaspaæ. 
+		Ustawiasz alarm w budziku na 7:00 rano, a na kompie formatowanie dysku C na 7:05.
+		</content>
     </joke>	
+	
 </jokes>
